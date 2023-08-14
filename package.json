@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chart.js": "^4.3.3",
+    "chart.js": "^2.9.4",
     "vue-chartjs": "^5.2.0"
   }
 }
